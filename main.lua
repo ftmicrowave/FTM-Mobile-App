@@ -2,8 +2,6 @@
 --
 -- main.lua deneme 1
 --fatih
-
---burası değiştirildi.
 --
 -----------------------------------------------------------------------------------------
 local physical = require( "physics" )
